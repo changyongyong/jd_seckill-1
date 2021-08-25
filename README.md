@@ -124,9 +124,4 @@ $ zbarimg qr_code.png > qrcode.txt && qrencode -r qrcode.txt -o - -t UTF8 # 解�
 搜索日志，出现“抢购成功，订单号xxxxx"，代表成功抢到了，务必半小时内支付订单！程序暂时不支持自动停止，需要手动STOP！  
 若两分钟还未抢购成功，基本上就是没抢到！程序暂时不支持自动停止，需要手动STOP！  
 
-## 打赏
-不用再打赏了，抢到茅台的同学请保持这份喜悦，没抢到的继续加油 :)  
 
-## 感谢
-##### 非常感谢原作者 https://github.com/zhou-xiaojun/jd_mask 提供的代码
-##### 也非常感谢 https://github.com/wlwwu/jd_maotai 进行的优化
